@@ -21,4 +21,4 @@ Data can be directly downloaded from the notebooks, or from MODIS and Copernicus
 ## Notebooks and files
 * climatology and residual data.
 * models definition, training. Evaluation.
-* L4 comparison
+* ![L3s_vs_l4_visual.ipynb](L3s_vs_l4_visual.ipynb) Comparison with Copernicus L4
