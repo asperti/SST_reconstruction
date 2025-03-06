@@ -5,7 +5,7 @@ The code is relative to the article [Deep Learning for Sea Surface Temperature R
 
 ![Animation of the SST reconstruction for year 2022](animation.gif)
 
-The animation describes our reconstruction of SST temperature for the year 2022 relative to the seas surrouning Italy.
+The animation describes our reconstruction of SST temperature for the year 2022 relative to the Seas surrounding Italy.
 
 ___
 
@@ -19,6 +19,6 @@ For the sake of comparison with with previous models, we did experiments with tw
 Data can be directly downloaded from the notebooks, or from MODIS and Copernicus sites.
 
 ## Notebooks and files
-* climatology and residual data.
+* ![Climatology_and_residual.ipynb](Climatology_and_residual.ipynb) Code creting the climatology and residual data.
 * models definition, training. Evaluation.
 * ![L3s_vs_l4_visual.ipynb](L3s_vs_l4_visual.ipynb) Comparison with Copernicus L4
