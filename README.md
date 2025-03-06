@@ -23,3 +23,15 @@ Data can be directly downloaded from the notebooks, or from MODIS and Copernicus
 * ![unet256residual_4Days_from_l3s.ipynb](unet256residual_4Days_from_l3s.ipynb)  Model definition and training, strating from l3s data. Comparison with Dincae
 * ![unet256residual_4Days_from_l3s.ipynb](unet256residual_4Days_from_modis.ipynb) Model definition and training, strating from modis data. Comparison with Dincae
 * ![L3s_vs_l4_visual.ipynb](L3s_vs_l4_visual.ipynb) Comparison with Copernicus L4
+
+___ 
+## Examples 
+Below we compare our reconstruction with the current Copernicus L4 data on a few samples:
+
+![02_08_2021.png](02_08_2021.png)
+![09_07_2021.png](09_07_2021.png)
+![09_08_2021.png](09_07_2021.png)
+![17_04_2022.png](17_04_2022.png)
+![28_07_2021.png](28_07_2021.png)
+
+
