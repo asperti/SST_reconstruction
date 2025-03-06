@@ -19,6 +19,7 @@ For the sake of comparison with with previous models, we did experiments with tw
 Data can be directly downloaded from the notebooks, or from MODIS and Copernicus sites.
 
 ## Notebooks and files
-* ![Climatology_and_residual.ipynb](Climatology_and_residual.ipynb) Code creting the climatology and residual data.
-* models definition, training. Evaluation.
+* ![Climatology_and_residual.ipynb](Climatology_and_residual.ipynb) Code creting the climatology and residual data
+* ![unet256residual_4Days_from_l3s.ipynb](unet256residual_4Days_from_l3s.ipynb)  Model definition and training, strating from l3s data. Comparison with Dincae
+* ![unet256residual_4Days_from_l3s.ipynb](unet256residual_4Days_from_modis.ipynb) Model definition and training, strating from modis data. Comparison with Dincae
 * ![L3s_vs_l4_visual.ipynb](L3s_vs_l4_visual.ipynb) Comparison with Copernicus L4
