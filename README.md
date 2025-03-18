@@ -5,7 +5,7 @@ The code is relative to the article [Deep Learning for Sea Surface Temperature R
 
 ![Animation of the SST reconstruction for year 2022](animation.gif)
 
-The animation describes our reconstruction of SST temperature for the year 2022 relative to the Seas surrounding Italy.
+The animation describes our reconstruction of SST temperature for the year 2022 relative to the Seas surrounding Italy (smoothed version).
 
 ___
 
