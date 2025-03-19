@@ -3,9 +3,9 @@ A set of notebooks for Sea Surface Temperature (SST) re-analysis starting from i
 
 The code is relative to the article [Deep Learning for Sea Surface Temperature Reconstruction under Cloud Occlusion](https://arxiv.org/abs/2412.03413), written in collaboration with Ali Aydogdu, Emanuela Clementi, Angelo Greco, Lorenzo Mentaschi, Fabio Merizzi, Pietro Miraglio, Paolo Oddo, Nadia Pinardi and Alessandro Testa.
 
-![Animation of the SST reconstruction for year 2022](animation.gif)
+![Animation of the SST reconstruction for year 2022](animation_new.gif)
 
-The animation describes our reconstruction of SST temperature for the year 2022 relative to the Seas surrounding Italy (smoothed version).
+The animation describes our reconstruction of SST temperature for the year 2022 relative to the Seas surrounding Italy.
 
 ___
 
