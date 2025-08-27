@@ -1,3 +1,8 @@
+---
+paper: https://arxiv.org/pdf/2412.03413v2
+repository: https://github.com/asperti/SST_reconstruction/
+---
+
 # Sea Surface Temperature reconstruction
 A set of notebooks for Sea Surface Temperature (SST) re-analysis starting from infrared satellite signals.
 
